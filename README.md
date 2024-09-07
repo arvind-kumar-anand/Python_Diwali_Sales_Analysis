@@ -19,14 +19,6 @@ This project involves analyzing sales data to gain insights into customer behavi
     ```bash
     git clone https://github.com/yourusername/sales-data-analysis.git
     ```
-2. Install the required libraries:
-    ```bash
-    pip install -r requirements.txt
-    ```
-3. Run the Jupyter notebook or Python script to analyze the data:
-    ```bash
-    jupyter notebook analysis.ipynb
-    ```
 
 ## Results
 - Improved customer experience by identifying potential customers across different segments.
