@@ -36,5 +36,5 @@ This project provides actionable insights for improving customer targeting and i
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/yourrepository.git
+git clone https://github.com/arvind-kumar-anand/Python_Diwali_Sales_Analysis.git
 ```
