@@ -27,8 +27,8 @@ This project involves analyzing **Sales Data** to gain insights into **customer 
 
 ## Results
 
-- Improved customer experience by identifying potential customers across different segments.
-- Helped optimize inventory by identifying top-selling products and categories.
+- **Improved customer experience** by identifying **potential customers** across different segments.
+- Helped **optimize inventory** by identifying **top-selling products** and categories.
 
 ## Conclusion
 
