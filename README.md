@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project involves analyzing sales data to gain insights into customer behavior and product performance, which can help improve sales strategies and inventory planning. The analysis includes data cleaning, exploratory data analysis (EDA), and customer segmentation.
+This project involves analyzing *Sales Data* to gain insights into customer behavior and product performance, which can help improve sales strategies and inventory planning. The analysis includes data cleaning, exploratory data analysis (EDA), and customer segmentation.
 
 ## Key Features
 
